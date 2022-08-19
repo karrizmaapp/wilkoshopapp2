@@ -1,0 +1,29 @@
+{
+
+	"admob_banner":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+
+	"APP_KEY": "160e6440d",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"APPLOVIN_BANNER": "697e9473547867cf",
+	"APPLOVIN_INTERSTITIAL": "5737fcc9649cc9cd",
+
+	"whichAds": 0,
+	
+	"popAppLink": "htp",
+	"popAppName": "Gap",
+	"popAppImage": "h2.png",
+	"popAppPackage": "cp",
+	"popAppIsActive": false,
+
+	"BUTTON_NAME_1": "Start",
+	"BUTTON_NAME_2": "Shop Now",
+
+	"URL" : "https://www.wilko.com/",
+
+	"isAdsActivated1":true,
+	"isAdsActivated2":false
+
+}
